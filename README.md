@@ -1,14 +1,12 @@
 fish-pet
 ====
 
-Fish support of the zsh script introduced in pet.
-https://github.com/knqyf263/pet
+Fish support of the zsh script introduced in [knqyf263/pet](https://github.com/knqyf263/pet).
 
-Based directly on the percol plugin.
 If you use fisher, install with the following command.
 
 ```sh
-fisher otms61/fish-pet
+$ fisher otms61/fish-pet
 ```
 
 prev
