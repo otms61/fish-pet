@@ -6,7 +6,7 @@ Fish support of the zsh script introduced in [knqyf263/pet](https://github.com/k
 If you use fisher or oh-my-fish, install with the following command.
 
 ```sh
-$ fisher otms61/fish-pet
+$ fisher add otms61/fish-pet
 ```
 ```sh
 $ omf install https://github.com/otms61/fish-pet
@@ -26,7 +26,7 @@ If you'd like to bind CTRL+S
 
 ```
 function fish_user_key_bindings
-  bind \cs 'pet-select --layout=bottom-up'
+  bind \cs 'pet-select'
 end
 ```
 
