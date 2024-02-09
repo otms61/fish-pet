@@ -6,7 +6,7 @@ Fish support of the zsh script introduced in [knqyf263/pet](https://github.com/k
 If you use fisher or oh-my-fish, install with the following command.
 
 ```sh
-$ fisher otms61/fish-pet
+$ fisher install otms61/fish-pet
 ```
 ```sh
 $ omf install https://github.com/otms61/fish-pet
